@@ -1,3 +1,5 @@
+package wstep;
+
 import java.util.Scanner;
 
 public class WynikiTestow {

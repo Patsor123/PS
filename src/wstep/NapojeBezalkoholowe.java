@@ -1,3 +1,5 @@
+package wstep;
+
 public class NapojeBezalkoholowe {
     public static void main(String[] args) {
 

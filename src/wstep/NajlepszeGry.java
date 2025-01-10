@@ -1,3 +1,5 @@
+package wstep;
+
 public class NajlepszeGry {
     public static void main(String[] args) {
 

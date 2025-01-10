@@ -1,3 +1,5 @@
+package wstep;
+
 public class Rysunek {
     public static void main(String[] args) {
 

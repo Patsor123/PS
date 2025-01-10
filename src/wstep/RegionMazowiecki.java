@@ -1,3 +1,5 @@
+package wstep;
+
 public class RegionMazowiecki {
     public static void main(String[] args) {
 

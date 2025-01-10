@@ -1,3 +1,5 @@
+package wstep;
+
 public class MieszkaniePowierzchnia {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package wstep;
+
 public class Jacek {
     public static void main(String[] args) {
         int zakupioneAkcje = 1000;
