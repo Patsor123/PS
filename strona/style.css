@@ -1,0 +1,112 @@
+button {
+    font-size: 16px;
+    color: white;
+    background-color: #0dc3e8;
+    border-radius: 10px;
+    border: 0px solid black;
+    padding: 10px 20px; 
+}
+
+a {
+    font-size: 16px;
+    color: #E9CA2E;
+    background-color: #071f76;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+a:hover {
+    font-size: 18px;
+    border-radius: 25px;
+    border: 2px solid #5f128f;
+    box-shadow: 0px 0px 5px 5px #5f128f;
+
+}
+
+
+.container {
+    width: 40%;
+    min-width: 500px;
+    background-color: #aaa;
+    padding: 20px;
+  }
+  
+  .header {
+    font-size: 30px;
+    background-color: #ccc;
+    text-align: center;
+    border-bottom: 3px solid #000;
+  }
+  
+  .paragraph {
+    font-size: 20px;
+    background-color: #7e7a7a;
+    text-align: justify;
+    padding: 20px;
+    border-top: 10px solid red;    
+    border-right: 12px ridge green;    
+    border-bottom: 14px double blue;  
+    border-left: 16px groove yellow;   
+  }
+
+
+
+
+.image {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("image/photo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#zad5 span{
+    font-size: 20px;
+    color: pink;
+
+}
+
+#zad5 p {
+    font-size: 20px;
+    color:red;
+}
+
+div > p{
+    text-transform: uppercase;
+  }
+
+div > span{
+    background-color: green;
+}
+
+#zad5 > div > span {
+    font-size: 25px;
+    color: darkorchid;
+    text-decoration: underline;
+    background-color: white;
+}
+
+#zad5 > div > p {
+    font-size: 25px;
+    color: green;
+    text-decoration: line-through;
+}
+
+#zad5 ~ span {
+    font-size: 30px;
+    color: maroon;
+    font-weight: bold;
+}
+
+
+#zad5 ~ p {
+    font-size: 30px;
+    color: purple;
+    font-weight: bold;
+}
+
+#zad5 + span {
+    color: red;
+    text-decoration: overline;
+  }
